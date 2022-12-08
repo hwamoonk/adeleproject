@@ -103,7 +103,7 @@
     text-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
 }
 .rb a{
-    padding: 50px 100px;
+    padding:30px 80px;
    
     background-color:#9F6FFF; 
     text-align: center;
@@ -202,7 +202,7 @@ transition: 1s;
         transition: 1s;
 }
 .prtbtn:hover{
-     background-color:white;
+        background-color:white;
           color:#9F6FFF;
 }
 
