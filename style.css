@@ -218,7 +218,7 @@ transition: 1s;
 
     }
 
-@media(max-width:380px){
+@media(max-width:430px){
     .header-pic1{display: none;}
     .header-pic2{display: none;}
     .header-right{width: 100%;text-align: center;}
